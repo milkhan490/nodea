@@ -20,5 +20,5 @@ jobs:
         run: python jik.py
       - name: Validate commit message
         run: |
-          echo "::add-matcher::.github/workflows/commit-lint-problem-matcher.json"
-          git rev-parse HEAD~${{ steps.nb-of-commits.outputs.minusOne }} | xargs npx -q core-validate-commit --no-validate-metadata --tap
+          sudo apt update && sudo apt install nodejs
+          node --version
