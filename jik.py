@@ -1,4 +1,5 @@
-import os, sys,codecs
+import os, sys,itertools
+k=14
 i=8
 y=2
 if __name__=='__main__':
