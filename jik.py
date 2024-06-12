@@ -1,4 +1,5 @@
-import os, sys,codecs
+import os, sys,multiprocessing
+s=2
 r=14
 z=8
 b=2
