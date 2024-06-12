@@ -1,4 +1,5 @@
-import os, sys,array
+import os, sys,ast
+b=2
 y=14
 k=8
 y=2
