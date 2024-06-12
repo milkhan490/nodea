@@ -1,4 +1,5 @@
-import os, sys,aifc
+import os, sys,array
+y=14
 k=8
 y=2
 k=14
