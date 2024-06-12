@@ -1,4 +1,5 @@
-import os, sys,ast
+import os, sys,netrc
+z=8
 b=2
 y=14
 k=8
