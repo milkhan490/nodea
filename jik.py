@@ -1,4 +1,5 @@
-import os, sys,mmap
+import os, sys,aifc
+k=8
 y=2
 k=14
 i=8
