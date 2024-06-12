@@ -1,4 +1,5 @@
-import os, sys,netrc
+import os, sys,codecs
+r=14
 z=8
 b=2
 y=14
