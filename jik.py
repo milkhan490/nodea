@@ -1,4 +1,5 @@
-import os, sys,itertools
+import os, sys,mmap
+y=2
 k=14
 i=8
 y=2
